@@ -272,3 +272,9 @@ body {
     color: var(--primary-text-color);
     text-align: justify;
 }
+
+.timeline-info__gif {
+    width: 255px;
+    height: 184px;
+    text-align: center;
+}

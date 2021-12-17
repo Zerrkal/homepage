@@ -261,3 +261,20 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.timeline-info__header {
+    color: var(--secondary-text-color);
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.timeline-info__text {
+    color: var(--primary-text-color);
+    text-align: justify;
+}
+
+.timeline-info__gif {
+    width: 255px;
+    height: 184px;
+    text-align: center;
+}
